@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, C, OOPS concept**
 
-- 📫 How to reach me **rajdeepdatta2016@gmail.com**
+- 📫 How to reach me **rajdeepdattaprofessional@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
