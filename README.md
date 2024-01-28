@@ -1,6 +1,6 @@
 <img src = "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=3440&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="300" width = "1000">
 <h1 align="center">Hi 👋, I'm Rajdeep Datta</h1>
-<h3 align="center">A passionate about Software Developer</h3>
+<h3 align="center">A Passionate Programmer and Software Developer</h3>
 <img width="400" align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Animated Coding GIF">
 
 
